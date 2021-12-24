@@ -1,0 +1,46 @@
+{
+    "domain": "go.emend.io",
+    "docsDomain": "pkg.go.dev",
+    "repositories": [
+        {
+            "prefix": "aqua",
+            "url": "https://github.com/emend-io/aqua"
+        },
+        {
+            "prefix": "aws",
+            "url": "https://github.com/emend-io/aws"
+        },
+        {
+            "prefix": "azure",
+            "url": "https://github.com/emend-io/azure"
+        },
+        {
+            "prefix": "dome9",
+            "url": "https://github.com/emend-io/dome9"
+        },
+        {
+            "prefix": "gcp",
+            "url": "https://github.com/emend-io/gcp"
+        },
+        {
+            "prefix": "insightvm",
+            "url": "https://github.com/emend-io/insightvm"
+        },
+        {
+            "prefix": "jira",
+            "url": "https://github.com/emend-io/jira"
+        },
+        {
+            "prefix": "nexpose",
+            "url": "https://github.com/emend-io/nexpose"
+        },
+        {
+            "prefix": "nvd",
+            "url": "https://github.com/emend-io/nvd"
+        },
+        {
+            "prefix": "qualys",
+            "url": "https://github.com/emend-io/qualys"
+        }
+    ]
+}
